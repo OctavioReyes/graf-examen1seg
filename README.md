@@ -1,4 +1,4 @@
-# Instituto Tecnologico de Pachuca
+# Instituto Tecnologico de Pachuca                                      ![Logo Escuela](imagenes/logo.png)
 ## Ingenieria en Sistemas Computacionales
 ### Graficacion
 ### Practica: **Examen Primer Seguimiento**
