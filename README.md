@@ -1,1 +1,0 @@
-# graf-ejercicio1s
